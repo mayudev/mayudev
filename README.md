@@ -23,10 +23,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayudev&langs_count=4&layout=compact" />
  </p>
-
-<p align="center">
-  <a href="https://www.pixiv.net/en/artworks/86880416">pfp sauce</a>
-</p>
 <!--
 **mayudev/mayudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
